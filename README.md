@@ -1,6 +1,7 @@
 [![](https://jitpack.io/v/AshishPatel2611/AndroidUtilities.svg)](https://jitpack.io/#AshishPatel2611/AndroidUtilities)
 
 # Usage
+Gradle
 Add these lines on top-level build file
 ```
 repositories {
